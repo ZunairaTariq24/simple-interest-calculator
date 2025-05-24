@@ -11,6 +11,7 @@ git clone https://github.com/ZunairaTariq24/simple-interest-calculator
 cd simple-interest-calculator
 ## Usage
 
+
 Run the script in terminal:
 
 ./simple-interest.sh
